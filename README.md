@@ -7,4 +7,5 @@
 📕 **Latest Dev.to**
 
 <!-- BLOG-POST-LIST:START -->
+- [Graceful Shutdown com PHP - Evitando data corruption](https://dev.to/leocarmo/graceful-shutdown-com-php-evitando-data-corruption-2bo3)
 <!-- BLOG-POST-LIST:END -->

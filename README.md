@@ -5,3 +5,8 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=leocarmo&show_icons=true&include_all_commits=true)](https://github.com/leocarmo/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocarmo&layout=compact&hide=html)](https://github.com/leocarmo/github-readme-stats)
+
+# Dev.to posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

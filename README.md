@@ -7,4 +7,7 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperf - PHP Coroutine Framework baseado em Swoole](https://leocarmo.dev/hyperf-php-coroutine-framework-baseado-em-swoole)
+- [Graceful Shutdown com PHP - Evitando data corruption](https://leocarmo.dev/graceful-shutdown-com-php-evitando-data-corruption)
+- [Guia: Alta performance com PHP — Suas aplicações backend no próximo nível](https://leocarmo.dev/guia-alta-performance-com-php-suas-aplicacoes-backend-no-proximo-nivel)
 <!-- BLOG-POST-LIST:END -->

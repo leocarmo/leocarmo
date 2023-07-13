@@ -5,6 +5,7 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Otimizando a Configuração de CPU e Memória no Kubernetes: Domine a Eficiência](https://leocarmo.dev/otimizando-a-configuracao-de-cpu-e-memoria-no-kubernetes-domine-a-eficiencia)
 - [Ambiente de desenvolvimento das galáxias usando Docker](https://leocarmo.dev/ambiente-de-desenvolvimento-das-galaxias-usando-docker)
 - [Hyperf - PHP Coroutine Framework baseado em Swoole](https://leocarmo.dev/hyperf-php-coroutine-framework-baseado-em-swoole)
 - [Graceful Shutdown com PHP - Evitando data corruption](https://leocarmo.dev/graceful-shutdown-com-php-evitando-data-corruption)

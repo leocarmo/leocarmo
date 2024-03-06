@@ -1,10 +1,9 @@
 [![leocarmo.dev Badge](https://img.shields.io/badge/leocarmo-.dev-blue)](http://leocarmo.dev)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=leocarmo&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/leocarmo) 
-
-📕 **Latest Blog Posts**
+📕 **leocarmo.dev**
 
 <!-- BLOG-POST-LIST:START -->
+- [Explorando os Conceitos e Diferenças entre Mensageria e Event Streaming](https://leocarmo.dev/explorando-os-conceitos-e-diferencas-entre-mensageria-e-event-streaming)
 - [Otimizando a Configuração de CPU e Memória no Kubernetes: Domine a Eficiência](https://leocarmo.dev/otimizando-a-configuracao-de-cpu-e-memoria-no-kubernetes-domine-a-eficiencia)
 - [Ambiente de desenvolvimento das galáxias usando Docker](https://leocarmo.dev/ambiente-de-desenvolvimento-das-galaxias-usando-docker)
 - [Hyperf - PHP Coroutine Framework baseado em Swoole](https://leocarmo.dev/hyperf-php-coroutine-framework-baseado-em-swoole)
